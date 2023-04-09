@@ -1,0 +1,18 @@
+colgroup{
+	background-color:yellow;
+}
+table{
+	border:5px solid black;
+}
+td,th{text-align:center;
+
+}
+form{
+	color:blue;
+}
+h1{
+	color:red;
+}
+picture{
+	width:auto;
+}
